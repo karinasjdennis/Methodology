@@ -1,8 +1,9 @@
+ ![image](https://github.com/user-attachments/assets/d47074e4-40ad-477e-8418-2583ebbba92f)
+
 # GoCodeGreen Carbon Calculation Methodology
-GoCodeGreen (GCG) utilises assessment data inputs from infrastructure, hardware and software screening, digital product life cycle analysis (LCA) and functional unit calculation to measure greenhouse gas emissions of ICT products and services, addressing the complexity of calculating services, supply chains, and shared resources. This enables measurement, ratings, benchmarking, and actionable insights for reduction and efficiency improvements to inform the creation of a client-specific Digital Carbon Reduction Plan (DCRP).
+This document describes how GoCodeGreen (GCG) calculates the carbon emissions of the digital world, along with the protocol and specifications it is in compliance with.
 
-
-  ![image](https://github.com/user-attachments/assets/d47074e4-40ad-477e-8418-2583ebbba92f)
+GCG utilises assessment data inputs from infrastructure, hardware and software screening, digital product life cycle analysis (LCA) and functional unit calculation to measure greenhouse gas emissions of ICT products and services, addressing the complexity of calculating services, supply chains, and shared resources. This enables measurement, ratings, benchmarking, and actionable insights for reduction and efficiency improvements to inform the creation of a client-specific Digital Carbon Reduction Plan (DCRP).
 
 The GCG approach adheres to the Greenhouse Gas Protocol ICT Sector Guidance (GHGP-ICTSG), Product and Scope 3 Standards ensuring full coverage across all ICT categories, including Desktop Managed Services, Telecoms and Network Services, Cloud and Data Centre Services, and Software. The general approach for calculating GHG emissions, defined by the GHGP-ICTSG, is to describe the service's definition and boundaries and enumerate the constituent elements that make it up. With elements assessed individually, the total impact can be assessed by summing the impact of all the individual building blocks. Thus, the equation for GHG impact is to multiply the activity data by the appropriate emission factor:
 
@@ -120,7 +121,7 @@ Reports for Cloud and Data Centre Services are separated for 'on-premise' data c
 For clients that are ‘data-ready’ and choose to use our API services, the option of receiving calculated data, ratings, benchmark results, and actions directly via the outbound API is available. To help clients understand their ‘data readiness’ the GoCodeGreen assessment process captures the source data point for each parameter and variable required by the calculation engine so that full analysis can be completed during an initial ‘discovery’ phase. 
 
 ## J.	Build a Digital Carbon Reduction Plan
-•	The data from the ICT Screening estimates and multiple software product assessments is aggregated in this final phase to generate a Digital Carbon Reduction Plan (DCRP). This is completed in accordance with the technical guidance PPN 06/21. 
+* The data from the ICT Screening estimates and multiple software product assessments is aggregated in this final phase to generate a Digital Carbon Reduction Plan (DCRP). This is completed in accordance with the technical guidance PPN 06/21. 
 
 Core to generating the DCRPTM are the following calculations: 
 1.	The baseline year for GHG emissions related to ICT and digital across each ICT category and software products.
