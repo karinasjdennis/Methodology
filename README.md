@@ -139,4 +139,6 @@ GoCodeGreen has direct experience adhering to [PPN 06/21](https://assets.publish
 # A Proven Solution
 GCG’s solutions have identified emission reduction opportunities ranging from 26-53% and achieved operational cost efficiencies in range 15-25% across the approx. 40 private and public sector organisations we have worked with so far.
 
+Click [here]((https://gocode.green/) to find out more or for enquiries contact us [here](https://gocode.green/contact-us/).
+
 ![image](https://github.com/user-attachments/assets/d80434c3-83ef-4644-8f74-7d7cb6ea8c57)
