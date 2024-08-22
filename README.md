@@ -22,8 +22,9 @@ Where **C** is the total amount of carbon the software causes to be emitted and 
 _“The most rigorous approach to identifying priority activities is to use initial GHG estimation (or screening) methods to determine which scope 3 activities are expected to be most significant in size. A quantitative approach gives the most accurate understanding of the relative magnitudes of various scope 3 activities.”_
 -	GHG Protocol Scope 3 FAQ
 
-  ![image](https://github.com/user-attachments/assets/732a1031-95c3-4f76-a7b6-a72384ef1a15) 
-  
+  [![image](https://github.com/user-attachments/assets/732a1031-95c3-4f76-a7b6-a72384ef1a15)](https://gocode.green/our-services-digital-decarbonisation/)
+
+ **Click the image to visit Our Services**
 
 # The Greenhouse Gas Protocol – ICT Sector Guidance
 
@@ -34,8 +35,9 @@ _“ICT products must primarily be intended to fulfil or enable the function of 
 The Guidance aims to provide a practical approach to the GHG assessment of ICT products by providing a consistent and pragmatic approach. While this Sector Guidance is in conformance with the Product Standard it provides more details and specificity relevant to the ICT sector. The GHG Protocol [Product](https://ghgprotocol.org/sites/default/files/standards/Product-Life-Cycle-Accounting-Reporting-Standard_041613.pdf) and [Scope 3](https://ghgprotocol.org/sites/default/files/standards/Corporate-Value-Chain-Accounting-Reporing-Standard_041613_2.pdf) Standard both take a value chain or life cycle approach to GHG accounting and were developed simultaneously. The Scope 3 Standard accounts for value chain emissions at the corporate level, while the Product Standard accounts for life cycle emissions at the individual product level. Therefore, ICT Sector Guidance supplements the Product Standard, similarly following a life cycle approach to the assessment of ICT products and services. The methodologies presented are also applicable to the categories of the Scope 3 Standard that relate specifically to products.
 
 
-![Screenshot 2024-08-20 at 15 59 24](https://github.com/user-attachments/assets/fc6083eb-7fb8-458f-8ada-acd18d031226)
+[![Screenshot 2024-08-22 at 12 43 52](https://github.com/user-attachments/assets/f4be38e8-5b6c-465b-94c2-4db73c9316d0)](https://ghgprotocol.org/sites/default/files/2023-03/GHGP-ICTSG%20-%20ALL%20Chapters.pdf)
 
+**Click the image to visit the Sector Guidance**
 
 # The ISO Standard
 
@@ -44,7 +46,8 @@ The [ISO/IEC 21031:2024 Information Technology Standard for SCI Specification](h
 Alongside the GHGP-ICTSG, Product and Scope 3 Standards, this is a standardised measurement for ICT carbon emissions calculations which GCG has adopted as the standardised measure for SCI, Function Point analysis and associated International Organisation for Standardisation. Ultimately, the SCI specification is used to define the methodology for calculating the rate of carbon emissions for a software system.
 
 
-![Screenshot 2024-08-20 at 16 03 07](https://github.com/user-attachments/assets/1894055f-932f-4766-91ab-978e8c4281e9)
+![Screenshot 2024-08-20 at 16 03 07](https://github.com/user-attachments/assets/9030cc9d-4435-4708-be35-9a808594962e)
+
 
 
 # The Importance of Measurement
@@ -137,6 +140,6 @@ GoCodeGreen has direct experience adhering to [PPN 06/21](https://assets.publish
 # A Proven Solution
 GCG’s solutions have identified emission reduction opportunities ranging from 26-53% and achieved operational cost efficiencies in range 15-25% across the approx. 40 private and public sector organisations we have worked with so far.
 
-Click [here]((https://gocode.green/) to find out more or for enquiries contact us [here](https://gocode.green/contact-us/).
+Click [here](https://gocode.green/) to find out more. For enquiries, contact us [here](https://gocode.green/contact-us/).
 
 ![image](https://github.com/user-attachments/assets/d80434c3-83ef-4644-8f74-7d7cb6ea8c57)
