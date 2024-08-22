@@ -13,8 +13,6 @@ The GCG approach adheres to the [Greenhouse Gas Protocol ICT Sector Guidance](ht
 
   _**GHG Impact (kg CO2e) = Activity Data (unit) × Emission Factor (kg CO2e/unit)**_
 
-The GHG Protocol Scope 3 Standard and the GHG Protocol Product Standard both take a value chain or life cycle approach to GHG accounting and were developed simultaneously. The Scope 3 Standard accounts for value chain emissions at the corporate level, while the Product Standard accounts for life cycle emissions at the individual product level.
-
 Additionally, GCG’s Software Carbon Intensity (SCI) measurement methodology fully complies with the [ISO/IEC 21031:2024 Information Technology Standard for SCI Specification](https://www.iso.org/standard/86612.html#:~:text=This%20document%20describes%20a%20methodology,of%20an%20application's%20sustainability%20credentials.), where calculations for operational emissions, embodied emissions, and functional unit conversion are used to generate an SCI score. This is placed against a baseline comparison that GCG can track and improve over time. The equation used to calculate the SCI value of a software system is:
 
 _**SCI = C per R**_
