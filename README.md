@@ -6,6 +6,8 @@
 
 This document provides an overview of corporate carbon accounting and outlines how GoCodeGreen (GCG) implements the GHG Protocol's Guidance and ISO Standard's Software Carbon Intensity (SCI) specification.
 
+Click [here](https://gocode.green/) to find out more. For enquiries, contact us [here](https://gocode.green/contact-us/).
+
 # Introduction to Carbon Measurement
 GCG is focused on helping organisations measure and reduce the carbon emissions produced by their ICT and digital products. This process includes defining the boundaries of carbon emissions across Scope 1, 2, and 3 outlined by the GHG Protocol, with Scope 3 being the most challenging as it involves indirect emissions from the value chain. Therefore, GCG utilises assessment data inputs from infrastructure, hardware and software screening, digital product life cycle analysis (LCA), and functional unit calculation to measure the carbon footprint of ICT products and services, addressing the complexity of calculating services, supply chains, and shared resources. This enables measurement, ratings, benchmarking, and actionable insights for reduction and efficiency improvements to inform the creation of a client-specific Digital Carbon Reduction Plan (DCRP)™.
 
